@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "608741803000",
+    "project_id": "tp-dap-miguez",
+    "storage_bucket": "tp-dap-miguez.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608741803000:android:4e6c482e74b8e9b8c0cc0d",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6Ic2FY5fP43_S2O75m_fiIlnKh5Cw014"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
